@@ -1,6 +1,10 @@
 A simple economic model based on individual preference ranking.
 
 
+Copyright 2014 Paul Cortens. All rights reserved.
+Please request permission before using this code anywhere.
+
+
 # TODO #
 
 Find a nice way to represent future leisure time.
